@@ -1,3 +1,6 @@
+[![ci](https://github.com/LeopoldRobingudovich/hexlet-ci-app/actions/workflows/ci.yaml/badge.svg)](https://github.com/LeopoldRobingudovich/hexlet-ci-app/actions/workflows/ci.yaml)
+
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
@@ -38,3 +41,4 @@ make lint
 [![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ci-app)
 
 This repository is created and maintained by the team and the community of Hexlet, an educational project. [Read more about Hexlet](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ci-app).
+
